@@ -13,7 +13,7 @@
 
 
 <hr class="dotted">
-It is an E-commerce system built in Django. It contains all the essentials for adding products and use PayPal and Stripe as payment systems.
+It is an E-commerce system built in Django as Backend & React as Frontend. It contains all the essentials for adding products and use PayPal and Stripe as payment systems.
 
 ## About this Project:
 
