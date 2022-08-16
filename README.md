@@ -24,14 +24,7 @@ The repository is a start point for most of my professional projects; for this, 
 Connect with me at:
 
 <p align='center'>
-    
-  <a href="https://www.linkedin.com/in/fl4viooliveira/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/13045151/">
-    <img src="https://img.shields.io/badge/stackoverflow-%23E4405F.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
+     
 </p>
 
 <p align='center'>
