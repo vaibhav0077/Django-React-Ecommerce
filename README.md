@@ -17,7 +17,7 @@ It is an E-commerce system built in Django as Backend & React as Frontend. It co
 
 ## About this Project:
 
-It is an E-commerce system built in Django. It contains all the essentials for adding products and use PayPal and Stripe as payment systems.
+It is an E-commerce system built in Django as Backend & React as Frontend. It contains all the essentials for adding products and use PayPal and Stripe as payment systems.
 
 The repository is a start point for most of my professional projects; for this, I'm using as a part of my portfolio, feel free to use wherever you want. I'll be happy if you provide any feedback or code improvements or suggestions.
 
